@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 NeuralBlend
+# <img src="https://github.com/NeuralBlend/.github/blob/main/profile/undefined_image%20(1).png?raw=true" alt="NeuralBlend Logo" width="30" height="30"> NeuralBlend
 
 
 <img src="https://github.com/NeuralBlend/.github/blob/main/profile/undefined_image%20(1).png?raw=true" alt="NeuralBlend Logo" width="200" height="200">
