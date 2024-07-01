@@ -2,7 +2,7 @@
 
 # 🧠 NeuralBlend
 
-<img src="https://github.com/NeuralBlend/.github/blob/main/profile/undefined_image%20(1).png?raw=true" alt="NeuralBlend Logo" width="200" height="200">
+![NeuralBlend Logo](/api/placeholder/200/100)
 
 ### Open-Source AI Innovation for Everyone
 
@@ -10,7 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/discord/XXXXXX?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/neuralblend)
 
-*Empowering the future of AI through open collaboration and innovation*
+*Empowering the future of AI through open collaboration and innovation* 🌐
 
 [Explore Docs](https://docs.neuralblend.com) • [Join Community](https://community.neuralblend.com) • [Contribute](CONTRIBUTING.md)
 
