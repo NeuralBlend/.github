@@ -2,7 +2,7 @@
 
 # 🧠 NeuralBlend
 
-![NeuralBlend Logo](/api/placeholder/200/100)
+![NeuralBlend Logo](https://github.com/NeuralBlend/.github/blob/main/profile/undefined_image%20(1).png?raw=true)
 
 ### Open-Source AI Innovation for Everyone
 
