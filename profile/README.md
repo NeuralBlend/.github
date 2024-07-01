@@ -2,9 +2,8 @@
 
 # 🧠 NeuralBlend
 
-![NeuralBlend Logo]
 
-<img src="https://github.com/NeuralBlend/.github/blob/main/profile/undefined_image%20(1).png?raw=true" alt="NeuralBlend Logo" width="200" height="300">
+<img src="https://github.com/NeuralBlend/.github/blob/main/profile/undefined_image%20(1).png?raw=true" alt="NeuralBlend Logo" width="200" height="200">
 
 
 ### Open-Source AI Innovation for Everyone
